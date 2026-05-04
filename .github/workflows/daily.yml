@@ -1,0 +1,27 @@
+name: Fieldhand Daily Post
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Runs at 12:00 PM UTC every day
+  workflow_dispatch:      # Allows you to run it manually for testing
+
+jobs:
+  post-question:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install discord.py
+
+      - name: Run Bot
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
+        run: python bot.py
