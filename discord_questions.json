@@ -1,0 +1,1052 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "If you could have any superpower, which would you pick? Why?"
+    },
+    {
+      "id": 2,
+      "text": "If a magic mirror could tell you the truth about yourself, life, the future, or anything else, what would you want to know?"
+    },
+    {
+      "id": 3,
+      "text": "If you could trade places with anyone for one week, who would you trade places with?"
+    },
+    {
+      "id": 4,
+      "text": "If you could have a round trip ticket to anywhere in the world, where would you go?"
+    },
+    {
+      "id": 5,
+      "text": "If you could repeat an experience you’ve had in life with someone special to you, what would it be?"
+    },
+    {
+      "id": 6,
+      "text": "If you were stranded on a desert island, would you rather be there alone with high-speed internet, or with another person but no technology?"
+    },
+    {
+      "id": 7,
+      "text": "If you were stranded on a desert island for five years and you could take four other people with you, who would they be?"
+    },
+    {
+      "id": 8,
+      "text": "If you could only take one book and one movie with you to this desert island, which ones would you choose?"
+    },
+    {
+      "id": 9,
+      "text": "If you could spend a month living in any period in history, when and where would it be?"
+    },
+    {
+      "id": 10,
+      "text": "Which two historical figures would you like to watch debate, and on which topic?"
+    },
+    {
+      "id": 11,
+      "text": "If you had to do something really fun or unusual every month for the next year, what would you choose?"
+    },
+    {
+      "id": 12,
+      "text": "If you had to live without one of the following for a whole year—alcohol, sugar, or hot showers—which would you choose?"
+    },
+    {
+      "id": 13,
+      "text": "If you had a million dollars to give away, what would you do with it?"
+    },
+    {
+      "id": 14,
+      "text": "What would you do with an extra $1,000 to spend only on yourself?"
+    },
+    {
+      "id": 15,
+      "text": "If you had to move permanently to another country, which one would you pick?"
+    },
+    {
+      "id": 16,
+      "text": "If you could speak one other language well, which one would you choose and why?"
+    },
+    {
+      "id": 17,
+      "text": "If you could choose your area of study and/or your job all over again, what would you choose?"
+    },
+    {
+      "id": 18,
+      "text": "If you could be part of the first human colony on Mars, would you go? What qualities would you bring?"
+    },
+    {
+      "id": 19,
+      "text": "If you could cure one disease, which one would you pick?"
+    },
+    {
+      "id": 20,
+      "text": "If you could be invisible for a day, what would you do?"
+    },
+    {
+      "id": 21,
+      "text": "If you were to start a business, what would you do?"
+    },
+    {
+      "id": 22,
+      "text": "If you had to make your living as an artist, what would you try to make and sell?"
+    },
+    {
+      "id": 23,
+      "text": "Who is a celebrity you find fascinating or attractive? What draws you to them?"
+    },
+    {
+      "id": 24,
+      "text": "If you could meet any famous person you wanted to, whom would you choose?"
+    },
+    {
+      "id": 25,
+      "text": "If you had to get a tattoo, where would you get it and what would it be?"
+    },
+    {
+      "id": 26,
+      "text": "What would you do with your time if money were of no concern?"
+    },
+    {
+      "id": 27,
+      "text": "If you could be an animal for a day, which one would you choose?"
+    },
+    {
+      "id": 28,
+      "text": "If you could spend one hour doing anything at all, what would you do?"
+    },
+    {
+      "id": 29,
+      "text": "If you were to write a book, what would it be about?"
+    },
+    {
+      "id": 30,
+      "text": "If you could be in the movie of your choice, what movie would it be and what role would you play?"
+    },
+    {
+      "id": 31,
+      "text": "If you could go anywhere for dinner tomorrow night, where would you go?"
+    },
+    {
+      "id": 32,
+      "text": "If you could choose to do something extraordinarily well, what skill would you pick?"
+    },
+    {
+      "id": 33,
+      "text": "If you had to change your first name, what new name would you choose?"
+    },
+    {
+      "id": 34,
+      "text": "If you had the ability to compete in the Olympics, which event would you choose?"
+    },
+    {
+      "id": 35,
+      "text": "If you were in charge of eliminating hunger in the world, where would you start?"
+    },
+    {
+      "id": 36,
+      "text": "If you had to design and teach a class at university, what would you teach on?"
+    },
+    {
+      "id": 37,
+      "text": "If you could redesign and redecorate your home at no cost, what would you do?"
+    },
+    {
+      "id": 38,
+      "text": "If you could relive one year of your life, which would you choose?"
+    },
+    {
+      "id": 39,
+      "text": "How are you feeling right now?"
+    },
+    {
+      "id": 40,
+      "text": "What is something that made you smile today?"
+    },
+    {
+      "id": 41,
+      "text": "What was something that made you feel frustrated today?"
+    },
+    {
+      "id": 42,
+      "text": "What have you been thinking about today?"
+    },
+    {
+      "id": 43,
+      "text": "When did you feel appreciated today?"
+    },
+    {
+      "id": 44,
+      "text": "What is something you did today that that you really enjoyed?"
+    },
+    {
+      "id": 45,
+      "text": "How did you show kindness to someone else today?"
+    },
+    {
+      "id": 46,
+      "text": "What (or who) encouraged you today?"
+    },
+    {
+      "id": 47,
+      "text": "What’s something that you intended to do today, but didn’t? Why not?"
+    },
+    {
+      "id": 48,
+      "text": "Was there anything you wanted to happen today, but didn’t?"
+    },
+    {
+      "id": 49,
+      "text": "What did you learn today?"
+    },
+    {
+      "id": 50,
+      "text": "Tell me two good things and two bad things from the past week."
+    },
+    {
+      "id": 51,
+      "text": "What is the story from your own life you find yourself telling the most often?"
+    },
+    {
+      "id": 52,
+      "text": "What is one cliché you sometimes catch yourself saying?"
+    },
+    {
+      "id": 53,
+      "text": "What is the joke you tell most often?"
+    },
+    {
+      "id": 54,
+      "text": "Do you prefer exercising your mind or your body? How frequently do you do either?"
+    },
+    {
+      "id": 55,
+      "text": "What is your idea of fun exercise?"
+    },
+    {
+      "id": 56,
+      "text": "What is one of your pet peeves?"
+    },
+    {
+      "id": 57,
+      "text": "What is something that bothers you if it’s not done perfectly? Why?"
+    },
+    {
+      "id": 58,
+      "text": "What is your favorite book, movie, or TV show right now?"
+    },
+    {
+      "id": 59,
+      "text": "What is a poem or song you really love?"
+    },
+    {
+      "id": 60,
+      "text": "What’s your favorite board game?"
+    },
+    {
+      "id": 61,
+      "text": "What is your favorite piece of furniture in your house?"
+    },
+    {
+      "id": 62,
+      "text": "What is your favorite restaurant? What do you love to order there?"
+    },
+    {
+      "id": 63,
+      "text": "What do you daydream about most often?"
+    },
+    {
+      "id": 64,
+      "text": "What does your perfect day look like?"
+    },
+    {
+      "id": 65,
+      "text": "What are you a “natural” at doing?"
+    },
+    {
+      "id": 66,
+      "text": "Which of your personality traits or habits do you work the hardest to resist or change?"
+    },
+    {
+      "id": 67,
+      "text": "What is something about yourself that you hope will never change?"
+    },
+    {
+      "id": 68,
+      "text": "Where is the biggest mismatch in your life right now between what you believe and how you live?"
+    },
+    {
+      "id": 69,
+      "text": "In which ways do you create your own suffering?"
+    },
+    {
+      "id": 70,
+      "text": "What do you wish you were better at saying no to?"
+    },
+    {
+      "id": 71,
+      "text": "What do you spend most of your leisure/entertainment time doing?"
+    },
+    {
+      "id": 72,
+      "text": "Do you tend to play it safe or take risks?"
+    },
+    {
+      "id": 73,
+      "text": "What is something you’d like to do, but are scared to try?"
+    },
+    {
+      "id": 74,
+      "text": "In what situations are you most likely to procrastinate?"
+    },
+    {
+      "id": 75,
+      "text": "What is a “deal breaker” for you in a relationship?"
+    },
+    {
+      "id": 76,
+      "text": "What is something you should probably throw out or give away, but don’t want to?"
+    },
+    {
+      "id": 77,
+      "text": "Is it harder for you to stick to a plan or be spontaneous?"
+    },
+    {
+      "id": 78,
+      "text": "Who is someone you have a difficult time loving?"
+    },
+    {
+      "id": 79,
+      "text": "Which do you need to practice the most: patience, kindness, gratitude, or joyfulness?"
+    },
+    {
+      "id": 80,
+      "text": "Are you more of a leader, or more of a follower?"
+    },
+    {
+      "id": 81,
+      "text": "Are you more of a feeler or a thinker?"
+    },
+    {
+      "id": 82,
+      "text": "What causes you to get flustered?"
+    },
+    {
+      "id": 83,
+      "text": "What time of day do you feel your best?"
+    },
+    {
+      "id": 84,
+      "text": "What is something that amazes you?"
+    },
+    {
+      "id": 85,
+      "text": "Where is your favorite place to take out of town guests?"
+    },
+    {
+      "id": 86,
+      "text": "What’s one thing you’d rather pay someone to do than do yourself?"
+    },
+    {
+      "id": 87,
+      "text": "What are three qualities that draw you to someone new?"
+    },
+    {
+      "id": 88,
+      "text": "Do you spend more time thinking about the past, the present, or the future?"
+    },
+    {
+      "id": 89,
+      "text": "Who is one of your heroes? What do you admire about them?"
+    },
+    {
+      "id": 90,
+      "text": "How important is it to set personal goals?"
+    },
+    {
+      "id": 91,
+      "text": "Are people trustworthy? Explain."
+    },
+    {
+      "id": 92,
+      "text": "Fill in the blanks: “I used to think ___, and now I think ___.”"
+    },
+    {
+      "id": 93,
+      "text": "What is the most significant problem facing the world?"
+    },
+    {
+      "id": 94,
+      "text": "What is a social or political issue that you feel strongly about?"
+    },
+    {
+      "id": 95,
+      "text": "What is a social or political issue you feel like you need to learn more about?"
+    },
+    {
+      "id": 96,
+      "text": "What is one social or political issue you have changed your opinion about during the last year?"
+    },
+    {
+      "id": 97,
+      "text": "What is a law or custom that would make this world a better place to live in?"
+    },
+    {
+      "id": 98,
+      "text": "What is your favorite quotation? Why do you like it?"
+    },
+    {
+      "id": 99,
+      "text": "What is the ideal age to get married? Why?"
+    },
+    {
+      "id": 100,
+      "text": "Why do you think divorce is so prevalent?"
+    },
+    {
+      "id": 101,
+      "text": "Is it more important in life to be honest or kind? Why?"
+    },
+    {
+      "id": 102,
+      "text": "Is ignorance ever really bliss?"
+    },
+    {
+      "id": 103,
+      "text": "Why are bad habits so hard to break?"
+    },
+    {
+      "id": 104,
+      "text": "What is more important: What you say or how you say it?"
+    },
+    {
+      "id": 105,
+      "text": "Is silence ever really golden? When?"
+    },
+    {
+      "id": 106,
+      "text": "Is it ever appropriate to break the law?"
+    },
+    {
+      "id": 107,
+      "text": "Is conflict a necessary part of a healthy relationship?"
+    },
+    {
+      "id": 108,
+      "text": "If money doesn’t bring happiness, what does?"
+    },
+    {
+      "id": 109,
+      "text": "What is one thing you know for sure?"
+    },
+    {
+      "id": 110,
+      "text": "When is it OK to lie?"
+    },
+    {
+      "id": 111,
+      "text": "Do you agree or disagree with the saying: “An adventure is only an inconvenience rightly considered”?"
+    },
+    {
+      "id": 112,
+      "text": "What is something you’ve achieved that you are really proud of?"
+    },
+    {
+      "id": 113,
+      "text": "What has been your biggest disappointment in life so far?"
+    },
+    {
+      "id": 114,
+      "text": "What has been the biggest challenge you’ve overcome?"
+    },
+    {
+      "id": 115,
+      "text": "Tell me about two things you greatly fear."
+    },
+    {
+      "id": 116,
+      "text": "Tell me about a time you overcame a fear."
+    },
+    {
+      "id": 117,
+      "text": "What is the most adventurous or daring thing you’ve done?"
+    },
+    {
+      "id": 118,
+      "text": "Tell me about a time when you felt very loved."
+    },
+    {
+      "id": 119,
+      "text": "What is the greatest thing you’ve done for someone else?"
+    },
+    {
+      "id": 120,
+      "text": "Tell me about a time you felt very hurt."
+    },
+    {
+      "id": 121,
+      "text": "Tell me about a time you felt extremely happy."
+    },
+    {
+      "id": 122,
+      "text": "Tell me about a real sacrifice you have made."
+    },
+    {
+      "id": 123,
+      "text": "What event in your life has changed you the most?"
+    },
+    {
+      "id": 124,
+      "text": "What is one thing you’ve learned the hard way in life?"
+    },
+    {
+      "id": 125,
+      "text": "What good things have resulted from the suffering you’ve experienced in your life?"
+    },
+    {
+      "id": 126,
+      "text": "What is something you regret having done?"
+    },
+    {
+      "id": 127,
+      "text": "What is something you regret not having done?"
+    },
+    {
+      "id": 128,
+      "text": "What is the most dangerous situation you’ve encountered? How did you react?"
+    },
+    {
+      "id": 129,
+      "text": "What were your New Years Resolutions or goals this year?"
+    },
+    {
+      "id": 130,
+      "text": "Tell me about a New Years Resolution or important goal that you succeeded in."
+    },
+    {
+      "id": 131,
+      "text": "Tell me about a New Years Resolution or important goal that you didn’t keep."
+    },
+    {
+      "id": 132,
+      "text": "When was the last time you really pushed yourself to your physical limits?"
+    },
+    {
+      "id": 133,
+      "text": "When was the last time you remember being stunned by beauty (or ugliness)?"
+    },
+    {
+      "id": 134,
+      "text": "Where is the most beautiful place you’ve ever been?"
+    },
+    {
+      "id": 135,
+      "text": "Tell me about something mischievous you’ve done."
+    },
+    {
+      "id": 136,
+      "text": "What is one book that has changed your life or stuck with you?"
+    },
+    {
+      "id": 137,
+      "text": "What movie have you watched over and over again? Why?"
+    },
+    {
+      "id": 138,
+      "text": "When is the last time you had “butterflies” because you felt so nervous?"
+    },
+    {
+      "id": 139,
+      "text": "What is the most embarrassing gaffe you’ve ever made with digital communication?"
+    },
+    {
+      "id": 140,
+      "text": "Has anything bad ever happened to you that turned out to be for the best?"
+    },
+    {
+      "id": 141,
+      "text": "What’s the wildest animal you’ve been close to?"
+    },
+    {
+      "id": 142,
+      "text": "What is something you’ve won?"
+    },
+    {
+      "id": 143,
+      "text": "What is one of the nicest compliments anyone has ever paid you?"
+    },
+    {
+      "id": 144,
+      "text": "When was the last time you were bored out of your mind?"
+    },
+    {
+      "id": 145,
+      "text": "When was the last time you really wanted to scream at someone?"
+    },
+    {
+      "id": 146,
+      "text": "Tell me about a time you helped (or were helped) by a total stranger."
+    },
+    {
+      "id": 147,
+      "text": "What is one of your favorite souvenirs from your travels?"
+    },
+    {
+      "id": 148,
+      "text": "What was your first job? What did it teach you?"
+    },
+    {
+      "id": 149,
+      "text": "What is the biggest surprise you’ve ever gotten? How did you react?"
+    },
+    {
+      "id": 150,
+      "text": "When is the last time you told a “little white lie?”"
+    },
+    {
+      "id": 151,
+      "text": "Tell me about a time you successfully resisted temptation."
+    },
+    {
+      "id": 152,
+      "text": "What life experience has strengthened you the most?"
+    },
+    {
+      "id": 153,
+      "text": "What’s the best job you’ve ever had?"
+    },
+    {
+      "id": 154,
+      "text": "What’s the worst job you’ve ever had?"
+    },
+    {
+      "id": 155,
+      "text": "Who was your first boyfriend or girlfriend? What were they like?"
+    },
+    {
+      "id": 156,
+      "text": "Tell me about a time you laughed when it was inappropriate or mean."
+    },
+    {
+      "id": 157,
+      "text": "What is something you have done that required great endurance or discipline?"
+    },
+    {
+      "id": 158,
+      "text": "When was the last time you found yourself “walking on eggshells?”"
+    },
+    {
+      "id": 159,
+      "text": "When was the last time you cried?"
+    },
+    {
+      "id": 160,
+      "text": "Tell me about a time when you did something that required courage."
+    },
+    {
+      "id": 161,
+      "text": "Tell me about a time when you received some amazing news."
+    },
+    {
+      "id": 162,
+      "text": "When did you feel like you really became an adult?"
+    },
+    {
+      "id": 163,
+      "text": "What do you miss about childhood?"
+    },
+    {
+      "id": 164,
+      "text": "Where did you grow up? What was it like?"
+    },
+    {
+      "id": 165,
+      "text": "What did you do for fun when you were a child?"
+    },
+    {
+      "id": 166,
+      "text": "Can you describe a magical childhood memory?"
+    },
+    {
+      "id": 167,
+      "text": "What did you want to be when you grew up?"
+    },
+    {
+      "id": 168,
+      "text": "What is your earliest childhood memory?"
+    },
+    {
+      "id": 169,
+      "text": "Did you have any pets when you were young? Tell me about them."
+    },
+    {
+      "id": 170,
+      "text": "What did you get in the most trouble for when you were young?"
+    },
+    {
+      "id": 171,
+      "text": "What was something you did as a child that made you feel all grown up?"
+    },
+    {
+      "id": 172,
+      "text": "What childhood accident stands out in your mind?"
+    },
+    {
+      "id": 173,
+      "text": "Tell me something you did as a child that you feel embarrassed about now."
+    },
+    {
+      "id": 174,
+      "text": "What was something you were good at or not good at when you were young?"
+    },
+    {
+      "id": 175,
+      "text": "What games did you play when you were little?"
+    },
+    {
+      "id": 176,
+      "text": "Tell me about a significant childhood achievement."
+    },
+    {
+      "id": 177,
+      "text": "What was your favorite book, movie, and album as a child?"
+    },
+    {
+      "id": 178,
+      "text": "What was your favorite or least favorite subject at high school? Why?"
+    },
+    {
+      "id": 179,
+      "text": "What clubs, sports, or activities were you most involved in during high school?"
+    },
+    {
+      "id": 180,
+      "text": "Did you find it easy to make friends when you were young?"
+    },
+    {
+      "id": 181,
+      "text": "Who was your best friend in high school? Where are they now?"
+    },
+    {
+      "id": 182,
+      "text": "Did you ever cheat at school? Share the details."
+    },
+    {
+      "id": 183,
+      "text": "What’s something you did growing up that your parents never found out about?"
+    },
+    {
+      "id": 184,
+      "text": "What is one book that you were forced to read in high school that you hated? Why?"
+    },
+    {
+      "id": 185,
+      "text": "What do you think of when you hear the word “home”?"
+    },
+    {
+      "id": 186,
+      "text": "What is a favorite memory with your grandparents?"
+    },
+    {
+      "id": 187,
+      "text": "How did you get along with your siblings while growing up?"
+    },
+    {
+      "id": 188,
+      "text": "What are some things your siblings did that annoyed you when you were young?"
+    },
+    {
+      "id": 189,
+      "text": "What’s the meanest thing you or your sibling did to each other?"
+    },
+    {
+      "id": 190,
+      "text": "What is one thing you admire and respect about each of your siblings?"
+    },
+    {
+      "id": 191,
+      "text": "Did you have an adult mentor figure in your teenage years?"
+    },
+    {
+      "id": 192,
+      "text": "Does your family have a “black sheep”? Who is it?"
+    },
+    {
+      "id": 193,
+      "text": "How did you rebel against your parents while you were growing up?"
+    },
+    {
+      "id": 194,
+      "text": "What are three words that describe your mother?"
+    },
+    {
+      "id": 195,
+      "text": "What are three words that describe your father?"
+    },
+    {
+      "id": 196,
+      "text": "What are some things your parents did well as parents?"
+    },
+    {
+      "id": 197,
+      "text": "What are some things you wish your parents had done differently?"
+    },
+    {
+      "id": 198,
+      "text": "What is one thing you admire and respect about each of your parents?"
+    },
+    {
+      "id": 199,
+      "text": "How are you similar to or different from your parents?"
+    },
+    {
+      "id": 200,
+      "text": "If you could change anything about your relationship with your parents, what would it be?"
+    },
+    {
+      "id": 201,
+      "text": "What are two things you admire about your parents’ relationship?"
+    },
+    {
+      "id": 202,
+      "text": "What is the most important quality in a marriage or partnership?"
+    },
+    {
+      "id": 203,
+      "text": "If you could restore one broken relationship in your life, which one would it be?"
+    },
+    {
+      "id": 204,
+      "text": "Are you more likely to avoid conflict or face it head-on?"
+    },
+    {
+      "id": 205,
+      "text": "Which way do you most prefer to give and receive love: touch, words, or gifts?"
+    },
+    {
+      "id": 206,
+      "text": "Think of someone you greatly respect. What are three things you admire about them?"
+    },
+    {
+      "id": 207,
+      "text": "Tell me about your closest friends. Are you happy with the quality of those friendships?"
+    },
+    {
+      "id": 208,
+      "text": "What’s a valuable lesson you learned from a previous romantic relationship?"
+    },
+    {
+      "id": 209,
+      "text": "How did your family celebrate your birthday growing up?"
+    },
+    {
+      "id": 210,
+      "text": "What would your ideal birthday look like?"
+    },
+    {
+      "id": 211,
+      "text": "What are some of the best gifts you’ve received or given?"
+    },
+    {
+      "id": 212,
+      "text": "What is your favorite holiday of the year? What are your family's traditions?"
+    },
+    {
+      "id": 213,
+      "text": "What is your favorite family tradition?"
+    },
+    {
+      "id": 214,
+      "text": "What was the best or worst vacation your family ever had?"
+    },
+    {
+      "id": 215,
+      "text": "What is your current job or field of study?"
+    },
+    {
+      "id": 216,
+      "text": "What does your typical workday look like?"
+    },
+    {
+      "id": 217,
+      "text": "How do you feel when you wake up in the morning and think about going to work?"
+    },
+    {
+      "id": 218,
+      "text": "What do you most enjoy or find challenging about your job?"
+    },
+    {
+      "id": 219,
+      "text": "Why did you choose this line of work?"
+    },
+    {
+      "id": 220,
+      "text": "What sort of job do you want to be doing in five years' time?"
+    },
+    {
+      "id": 221,
+      "text": "What do you most enjoy spending time doing?"
+    },
+    {
+      "id": 222,
+      "text": "When do you feel most 'like yourself'? Why?"
+    },
+    {
+      "id": 223,
+      "text": "If you had a Saturday all to yourself, what would you do?"
+    },
+    {
+      "id": 224,
+      "text": "What are two of your guilty pleasures?"
+    },
+    {
+      "id": 225,
+      "text": "What are three things you are good at doing?"
+    },
+    {
+      "id": 226,
+      "text": "What are two things you are not good at doing?"
+    },
+    {
+      "id": 227,
+      "text": "What are the biggest sources of stress in your life right now?"
+    },
+    {
+      "id": 228,
+      "text": "To feel rested, how many hours of sleep do you need?"
+    },
+    {
+      "id": 229,
+      "text": "When you feel stressed, how does that show up in how you interact with others?"
+    },
+    {
+      "id": 230,
+      "text": "When you feel sad, what do you do for comfort?"
+    },
+    {
+      "id": 231,
+      "text": "What advice do you give to others about how to manage stress?"
+    },
+    {
+      "id": 232,
+      "text": "What helpful self-care strategies do you wish you were using more regularly?"
+    },
+    {
+      "id": 233,
+      "text": "When you are struggling, how can your partner or friends best help you?"
+    },
+    {
+      "id": 234,
+      "text": "What was your first impression of me? Was it accurate?"
+    },
+    {
+      "id": 235,
+      "text": "What is a favorite memory you have of time we’ve spent together?"
+    },
+    {
+      "id": 236,
+      "text": "How have you had to compromise or change since we got together?"
+    },
+    {
+      "id": 237,
+      "text": "What do you miss most about being single?"
+    },
+    {
+      "id": 238,
+      "text": "What are some things you love about being 'coupled'?"
+    },
+    {
+      "id": 239,
+      "text": "Where was the location of our most memorable kiss?"
+    },
+    {
+      "id": 240,
+      "text": "What is the silliest disagreement we’ve had so far?"
+    },
+    {
+      "id": 241,
+      "text": "Which of us is more likely to start an argument?"
+    },
+    {
+      "id": 242,
+      "text": "What was one of our best dates ever?"
+    },
+    {
+      "id": 243,
+      "text": "What is something I’ve done that melted your heart?"
+    },
+    {
+      "id": 244,
+      "text": "What helps you feel most connected to me?"
+    },
+    {
+      "id": 245,
+      "text": "What is one thing you think we’re 'doing well' in our relationship?"
+    },
+    {
+      "id": 246,
+      "text": "What do you find most challenging about our relationship?"
+    },
+    {
+      "id": 247,
+      "text": "Have you ever felt jealous during our relationship?"
+    },
+    {
+      "id": 248,
+      "text": "Are you open to the possibility of relocating for this relationship?"
+    },
+    {
+      "id": 249,
+      "text": "How did your parents make decisions about money?"
+    },
+    {
+      "id": 250,
+      "text": "Do you have any outstanding loans or debts?"
+    },
+    {
+      "id": 251,
+      "text": "What is something you would like to change about the way you spend money?"
+    },
+    {
+      "id": 252,
+      "text": "What is the first thing you would buy if you won the lottery?"
+    },
+    {
+      "id": 253,
+      "text": "Is having a nice house or a nice car more important to you?"
+    },
+    {
+      "id": 254,
+      "text": "How much of your income do you give away to charity?"
+    },
+    {
+      "id": 255,
+      "text": "Do you think God or a higher power exists?"
+    },
+    {
+      "id": 256,
+      "text": "Do you believe in life after death?"
+    },
+    {
+      "id": 257,
+      "text": "Would you call yourself religious or spiritual?"
+    },
+    {
+      "id": 258,
+      "text": "Tell me about a time you felt spiritually alive."
+    },
+    {
+      "id": 259,
+      "text": "Do you believe in miracles?"
+    },
+    {
+      "id": 260,
+      "text": "Do you believe prayer accomplishes anything?"
+    },
+    {
+      "id": 261,
+      "text": "If there is a God, what do you think they want?"
+    },
+    {
+      "id": 262,
+      "text": "If you could, would you choose to know how and when you will die?"
+    }
+  ]
+}
