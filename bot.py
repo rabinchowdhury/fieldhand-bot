@@ -18,15 +18,16 @@ async def send_question():
         channel = client.get_channel(CHANNEL_ID)
         if channel:
             try:
+                # Ensure the filename matches your actual file
                 with open(FILE_NAME, 'r', encoding='utf-8') as f:
                     data = json.load(f)
-                    questions = data.get("questions", [])[cite: 1]
+                    questions = data.get("questions", [])
 
                 if questions:
                     # Picks a question based on day of the year
                     day_of_year = datetime.datetime.now().timetuple().tm_yday
                     question_index = day_of_year % len(questions)
-                    selected_question = questions[question_index]["text"][cite: 1]
+                    selected_question = questions[question_index]["text"]
 
                     embed = discord.Embed(
                         title="Fieldhand's Daily Question",
